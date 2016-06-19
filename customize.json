@@ -40,7 +40,7 @@
     }
   },
   "date": "August 6-7",
-  "venue": "Make School SF",
+  "venue": "Innovation Warehouse, London",
   "btn_sponsor": "Sponsor Us",
   "btn_register": [
     "Register",
@@ -63,7 +63,7 @@
         "$value": "fa-book"
       },
       "head": "Learn",
-      "body": "IncubateLON will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience."
+      "body": "IncubateLON will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience. We are also one of the few under-18 hackathons in the UK."
     },
     "second": {
       "icon": {
@@ -84,11 +84,11 @@
   },
   "countup": {
     "attendees": {
-      "number": 250,
+      "number": 150,
       "unit": "ATTENDEES"
     },
     "hours": {
-      "number": 30,
+      "number": 24,
       "unit": "HOURS"
     },
     "opportunity": {
@@ -127,11 +127,11 @@
         "$value": [
           {
             "question": "When/Where?",
-            "answer": "IncubateLON will take place on August 6-7 at the Make School SF."
+            "answer": "IncubateLON will take place on August 6-7 at Innovation Warehouse."
           },
           {
             "question": "Is there transportation or travel reimbursement?",
-            "answer": "TBD."
+            "answer": "At this time, unfortunately not however we are working on getting some discounts for attendees."
           },
           {
             "question": "What should I bring?",
@@ -150,7 +150,7 @@
         "$value": [
           {
             "question": "How much time will we have to hack?",
-            "answer": "Teams will have 30 hours to build their products."
+            "answer": "Teams will have 24 hours to build their products."
           },
           {
             "question": "Will there be hardware or API keys provided?",
@@ -177,7 +177,7 @@
           },
           {
             "question": "Is there a Code of Conduct?",
-            "answer": "Yes, <a href='http://static.mlh.io/docs/mlh-code-of-conduct.pdf' target='_blank'>here</a>. <br>tl;dr respect other participants and don't be a jerk."
+            "answer": "Yes, <a href='http://static.mlh.io/docs/mlh-code-of-conduct.pdf' target='_blank'>here</a>. <br>tl;dr respect other participants and don't be annoying."
           },
           {
             "question": "Will there be prizes?",
@@ -197,35 +197,27 @@
         "$type": "array_rows",
         "$value": [
           {
-            "time": "9AM",
+            "time": "10AM",
             "event": "Check In",
             "place": "Lobby"
           },
           {
-            "time": "10AM",
+            "time": "10:30AM",
             "event": "Welcome + Keynotes",
-            "place": "Cafeteria"
+            "place": "Cafe"
           },
+          
           {
-            "time": "11AM",
-            "event": "Demos",
-            "place": "Cafeteria"
-          },
-          {
-            "time": "12PM",
+            "time": "10:45am",
             "event": "Hacking Begins",
             "place": "Band Hall"
           },
           {
             "time": "1PM",
             "event": "Lunch",
-            "place": "Lobby"
+            "place": "Distributed among groups"
           },
-          {
-            "time": "2PM",
-            "event": "Workshops",
-            "place": "Band Hall"
-          },
+          
           {
             "time": "7PM",
             "event": "Dinner",
@@ -242,43 +234,21 @@
           {
             "time": "12AM",
             "event": "Midnight Snack",
-            "place": "Band Hall"
+            "place": "Help yourself in cafeteria"
           },
-          {
-            "time": "3AM",
-            "event": "HypeFest",
-            "place": "Band Hall"
-          },
-          {
-            "time": "5AM",
-            "event": "Surprise",
-            "place": "Lobby"
-          },
+          
+          
           {
             "time": "7AM",
             "event": "Breakfast",
-            "place": "Lobby"
+            "place": "Distributed among groups"
           },
           {
-            "time": "12PM",
-            "event": "Lunch & Hacking Ends",
-            "place": "Lobby"
-          },
-          {
-            "time": "1PM",
-            "event": "Hack Demo Fair",
-            "place": "Lobby"
-          },
-          {
-            "time": "2PM",
-            "event": "Closing Ceremony",
-            "place": "Auditorium"
-          },
-          {
-            "time": "3PM",
-            "event": "Hackathon Ends",
-            "place": "Auditorium"
+            "time": "9AM",
+            "event": "Hacking ends and judging commences",
+            "place": "Cafeteria"
           }
+          
         ]
       }
     }
@@ -304,11 +274,11 @@
         {
           "link": {
             "$type": "link",
-            "$value": "https://www.thalmic.com"
+            "$value": "https://www.innovationwarehouse.org"
           },
           "image": {
             "$type": "image",
-            "$value": "sponsors/thalmiclabs.png"
+            "$value": "sponsors/innovationwarehouse.png"
           }
         }
       ]
